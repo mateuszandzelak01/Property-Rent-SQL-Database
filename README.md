@@ -5,7 +5,7 @@
 ### 3. SQL Queries
 ### 4. Export Data to CSV from SQL Queries
 ### 5. Connect MySQL in to Power BI
-### 6. Create Dashboord for Rent Manager
+### 6. Create Dashboard for Rent Manager
 
 
 ## DB SCHEMA
