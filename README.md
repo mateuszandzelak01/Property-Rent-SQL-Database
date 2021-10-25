@@ -14,4 +14,4 @@ In this project I create the MySQL Database of company that rent property. I cre
 ![This is an image](https://github.com/mateuszandzelak01/Property-Rent-SQL-Database/blob/main/ER_Rent.jpg)
 
 ## DASHBOARD RENT MANAGER
-![This is an image](https://github.com/mateuszandzelak01/Property-Rent-SQL-Database/blob/main/Dashbord_Rent_Manager.jpg)
+![This is an image](https://github.com/mateuszandzelak01/Property-Rent-SQL-Database/blob/main/Dashboard.jpg)
